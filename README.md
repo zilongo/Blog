@@ -28,4 +28,4 @@
  - https://segmentfault.com/a/1190000008396389（chrome devTool）
  
  ## 完整教程
- -- https://alligator.io/vuejs/
+ - https://alligator.io/vuejs/
