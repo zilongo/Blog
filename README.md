@@ -6,14 +6,17 @@
 
 # 前段知识点
 ## JavaScript
+
  - http://blog.leapoahead.com/2015/08/31/understanding-js-this-keyword/ (this 关键字的理解)
  - http://web.jobbole.com/88167/ (闭包理解)
  - http://blog.leapoahead.com/2015/09/15/js-closure/（闭包理解）
  - http://blog.leapoahead.com/2015/09/15/js-closure/
+ 
  ## ES6
  - https://alligator.io/js/
  
  ## 框架
+ 
  - http://www.jianshu.com/p/af936b61a442 jquery datatable
  ## vue
  
@@ -21,9 +24,11 @@
  ### datatable
  - https://jothy1023.github.io/2016/10/01/vueList/ （完整datatable实例）
  - https://github.com/zilongo/vue-datatable
+ 
  ### UI 库
  - https://ccforward.github.io/rubik/#/about
  - http://element.eleme.io/#/zh-CN
+ 
  ## 工具
  - https://segmentfault.com/a/1190000008396389（chrome devTool）
  
@@ -31,9 +36,11 @@
  - https://alligator.io/vuejs/
  
  ## vue 应用
+ 
 - http://www.jianshu.com/p/29237f737534?utm_source=tuicool&utm_medium=referral 【教程】
 - https://segmentfault.com/a/1190000008341186?utm_source=tuicool&utm_medium=referral 【vue 搭建博客】
 
 ## vue 组件设计
+
 - https://github.com/ccforward/cc/issues/55?utm_source=tuicool&utm_medium=referral 【组件设计总结】
 - http://www.tuicool.com/articles/ZfiMjuA【短信验证码组件】
