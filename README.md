@@ -14,6 +14,9 @@
  - http://web.jobbole.com/88167/ (闭包理解)
  - http://blog.leapoahead.com/2015/09/15/js-closure/（闭包理解）
  - http://blog.leapoahead.com/2015/09/15/js-closure/
+ ### this
+ 
+ http://blog.csdn.net/witsmakemen/article/details/20901917 事件绑定和this
  
  ## ES6
  - https://alligator.io/js/
