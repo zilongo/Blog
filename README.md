@@ -1,6 +1,9 @@
 # 生成markdown TOC
 - https://simman.cc/archives/%E7%94%9F%E6%88%90Markdown%E7%BC%96%E5%86%99%E7%9A%84API%E6%96%87%E6%A1%A3%E4%B8%BAHTML%E5%B9%B6%E5%8A%A0%E5%85%A5Toc/
 
+- https://ruby-china.org/topics/17028
+
+
 # 网站
 - http://caibaojian.com/ 集合各种前段资源
 - https://alligator.io/ (英文)
