@@ -12,8 +12,6 @@
 
 # 前段知识点
 
-# 前段知识点
-
 ## JavaScript
 
  - http://blog.leapoahead.com/2015/08/31/understanding-js-this-keyword/ (this 关键字的理解)
