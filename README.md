@@ -7,6 +7,8 @@
 # 网站
 - http://caibaojian.com/ 集合各种前段资源
 - https://alligator.io/ (英文)
+-https://github.com/ccforward/cc/issues/ 
+
 # 前段知识点一栏 
 - http://caibaojian.com/fe-knowledge-points.html
 
@@ -31,6 +33,7 @@
  ## vue
  
  - https://www.sitepoint.com/up-and-running-vue-js-2-0/
+ - https://github.com/ccforward/zhihu （vue 和 node 数据抓取）
  ### datatable
  - https://jothy1023.github.io/2016/10/01/vueList/ （完整datatable实例）
  - https://github.com/zilongo/vue-datatable
