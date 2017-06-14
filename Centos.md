@@ -14,3 +14,6 @@ http://www.cnblogs.com/always-online/p/4691507.html 配置Java
 ## 安装tomcat服务
 
 https://www.digitalocean.com/community/tutorials/how-to-install-apache-tomcat-8-on-centos-7
+
+## 如何实现一个操作系统
+https://www.zhihu.com/question/22463820
