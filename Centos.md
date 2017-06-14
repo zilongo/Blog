@@ -10,3 +10,7 @@ wget http://download.oracle.com/otn-pub/java/jdk/8u131-b11/d54c1d3a095b4ff2b6607
 ```
 
 http://www.cnblogs.com/always-online/p/4691507.html 配置Java
+
+## 安装tomcat服务
+
+https://www.digitalocean.com/community/tutorials/how-to-install-apache-tomcat-8-on-centos-7
