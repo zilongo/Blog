@@ -1,3 +1,11 @@
+
+## centos 常用命令
+
+http://www.cnblogs.com/vamei/archive/2013/03/03/2871198.html
+
+## 文件夹复制 cp
+cp -r dir1 dir2
+
 ## 添加sudo 用户
 
 https://www.digitalocean.com/community/tutorials/how-to-create-a-sudo-user-on-centos-quickstart
